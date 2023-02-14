@@ -1,0 +1,15 @@
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.DbAdapter\bin\Debug\net5.0\Agenda.DbAdapter.deps.json
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.DbAdapter\bin\Debug\net5.0\Agenda.DbAdapter.dll
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.DbAdapter\bin\Debug\net5.0\ref\Agenda.DbAdapter.dll
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.DbAdapter\bin\Debug\net5.0\Agenda.DbAdapter.pdb
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.DbAdapter\bin\Debug\net5.0\Agenda.Domain.dll
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.DbAdapter\bin\Debug\net5.0\Agenda.Domain.pdb
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.DbAdapter\obj\Debug\net5.0\Agenda.DbAdapter.csproj.AssemblyReference.cache
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.DbAdapter\obj\Debug\net5.0\Agenda.DbAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.DbAdapter\obj\Debug\net5.0\Agenda.DbAdapter.AssemblyInfoInputs.cache
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.DbAdapter\obj\Debug\net5.0\Agenda.DbAdapter.AssemblyInfo.cs
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.DbAdapter\obj\Debug\net5.0\Agenda.DbAdapter.csproj.CoreCompileInputs.cache
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.DbAdapter\obj\Debug\net5.0\Agenda.DbAdapter.csproj.CopyComplete
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.DbAdapter\obj\Debug\net5.0\Agenda.DbAdapter.dll
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.DbAdapter\obj\Debug\net5.0\ref\Agenda.DbAdapter.dll
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.DbAdapter\obj\Debug\net5.0\Agenda.DbAdapter.pdb

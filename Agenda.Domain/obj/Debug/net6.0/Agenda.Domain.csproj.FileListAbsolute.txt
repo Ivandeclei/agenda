@@ -1,0 +1,12 @@
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\obj\Debug\net6.0\Agenda.Domain.csproj.AssemblyReference.cache
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\obj\Debug\net6.0\Agenda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\obj\Debug\net6.0\Agenda.Domain.AssemblyInfoInputs.cache
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\obj\Debug\net6.0\Agenda.Domain.AssemblyInfo.cs
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\obj\Debug\net6.0\Agenda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\bin\Debug\net6.0\Agenda.Domain.deps.json
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\bin\Debug\net6.0\Agenda.Domain.dll
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\bin\Debug\net6.0\Agenda.Domain.pdb
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\obj\Debug\net6.0\Agenda.Domain.dll
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\obj\Debug\net6.0\refint\Agenda.Domain.dll
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\obj\Debug\net6.0\Agenda.Domain.pdb
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\obj\Debug\net6.0\ref\Agenda.Domain.dll

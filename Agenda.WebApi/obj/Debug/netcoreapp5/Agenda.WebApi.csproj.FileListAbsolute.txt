@@ -1,0 +1,6 @@
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.WebApi\obj\Debug\netcoreapp5\Agenda.WebApi.csproj.AssemblyReference.cache
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.WebApi\obj\Debug\netcoreapp5\Agenda.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.WebApi\obj\Debug\netcoreapp5\Agenda.WebApi.AssemblyInfoInputs.cache
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.WebApi\obj\Debug\netcoreapp5\Agenda.WebApi.AssemblyInfo.cs
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.WebApi\obj\Debug\netcoreapp5\Agenda.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.WebApi\obj\Debug\netcoreapp5\Agenda.WebApi.MvcApplicationPartsAssemblyInfo.cache

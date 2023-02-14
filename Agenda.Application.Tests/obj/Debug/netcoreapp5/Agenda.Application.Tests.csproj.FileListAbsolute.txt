@@ -1,0 +1,6 @@
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Application.Tests\bin\Debug\netcoreapp5\CoverletSourceRootsMapping
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Application.Tests\obj\Debug\netcoreapp5\Agenda.Application.Tests.csproj.AssemblyReference.cache
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Application.Tests\obj\Debug\netcoreapp5\Agenda.Application.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Application.Tests\obj\Debug\netcoreapp5\Agenda.Application.Tests.AssemblyInfoInputs.cache
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Application.Tests\obj\Debug\netcoreapp5\Agenda.Application.Tests.AssemblyInfo.cs
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Application.Tests\obj\Debug\netcoreapp5\Agenda.Application.Tests.csproj.CoreCompileInputs.cache

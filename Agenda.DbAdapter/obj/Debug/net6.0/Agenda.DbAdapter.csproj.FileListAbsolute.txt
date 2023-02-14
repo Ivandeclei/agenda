@@ -1,0 +1,15 @@
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.DbAdapter\obj\Debug\net6.0\Agenda.DbAdapter.csproj.AssemblyReference.cache
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.DbAdapter\obj\Debug\net6.0\Agenda.DbAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.DbAdapter\obj\Debug\net6.0\Agenda.DbAdapter.AssemblyInfoInputs.cache
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.DbAdapter\obj\Debug\net6.0\Agenda.DbAdapter.AssemblyInfo.cs
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.DbAdapter\obj\Debug\net6.0\Agenda.DbAdapter.csproj.CoreCompileInputs.cache
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.DbAdapter\bin\Debug\net6.0\Agenda.DbAdapter.deps.json
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.DbAdapter\bin\Debug\net6.0\Agenda.DbAdapter.dll
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.DbAdapter\bin\Debug\net6.0\Agenda.DbAdapter.pdb
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.DbAdapter\bin\Debug\net6.0\Agenda.Domain.dll
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.DbAdapter\bin\Debug\net6.0\Agenda.Domain.pdb
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.DbAdapter\obj\Debug\net6.0\Agenda.DbAdapter.csproj.CopyComplete
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.DbAdapter\obj\Debug\net6.0\Agenda.DbAdapter.dll
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.DbAdapter\obj\Debug\net6.0\refint\Agenda.DbAdapter.dll
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.DbAdapter\obj\Debug\net6.0\Agenda.DbAdapter.pdb
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.DbAdapter\obj\Debug\net6.0\ref\Agenda.DbAdapter.dll

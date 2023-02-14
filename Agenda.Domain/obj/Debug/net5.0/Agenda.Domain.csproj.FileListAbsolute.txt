@@ -1,0 +1,12 @@
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.Domain\bin\Debug\net5.0\Agenda.Domain.deps.json
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.Domain\bin\Debug\net5.0\Agenda.Domain.dll
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.Domain\bin\Debug\net5.0\ref\Agenda.Domain.dll
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.Domain\bin\Debug\net5.0\Agenda.Domain.pdb
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.csproj.AssemblyReference.cache
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.AssemblyInfoInputs.cache
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.AssemblyInfo.cs
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.dll
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.Domain\obj\Debug\net5.0\ref\Agenda.Domain.dll
+C:\Users\ivand\Desktop\COmpartilhado\Agenda.Application\Agenda.Domain\obj\Debug\net5.0\Agenda.Domain.pdb

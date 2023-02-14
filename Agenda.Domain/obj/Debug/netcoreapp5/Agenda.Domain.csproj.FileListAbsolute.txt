@@ -1,0 +1,5 @@
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\obj\Debug\netcoreapp5\Agenda.Domain.csproj.AssemblyReference.cache
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\obj\Debug\netcoreapp5\Agenda.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\obj\Debug\netcoreapp5\Agenda.Domain.AssemblyInfoInputs.cache
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\obj\Debug\netcoreapp5\Agenda.Domain.AssemblyInfo.cs
+C:\Users\ivandeclei.costa\Desktop\Mestrado\TrabalhoPratico\Agenda.Application\Agenda.Domain\obj\Debug\netcoreapp5\Agenda.Domain.csproj.CoreCompileInputs.cache

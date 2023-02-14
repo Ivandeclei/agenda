@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ivand\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ivand\\.nuget\\packages"
+    ]
+  }
+}
